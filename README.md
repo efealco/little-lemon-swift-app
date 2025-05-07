@@ -1,9 +1,11 @@
-**Locations Tab**
-![image](https://github.com/user-attachments/assets/1da4f605-374d-4e25-92a5-3a15dd443493)
-**Reservation Form**
-![image](https://github.com/user-attachments/assets/cf6c5d86-b4ca-4a8c-b161-7c0f25ad6e50)
-**Reservation Tab**
-![image](https://github.com/user-attachments/assets/8d0ddd8c-a6f9-4739-ba6a-727205c7a55c)
+## 📍 Locations Tab
+![Locations Tab](https://github.com/user-attachments/assets/1da4f605-374d-4e25-92a5-3a15dd443493)
+
+## 📝 Reservation Form
+![Reservation Form](https://github.com/user-attachments/assets/64c80758-f02b-46ff-a1c3-ab23b21f964f)
+
+## 📅 Reservation Tab
+![Reservation Tab](https://github.com/user-attachments/assets/8d0ddd8c-a6f9-4739-ba6a-727205c7a55c)
 
 
 🍋 **Little Lemon Booking App**
